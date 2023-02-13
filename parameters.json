@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+      "Project Name": 
+      {
+          "value":"Project1"}
+      }
+     "Admin Username": 
+      {
+          "value":"Shilpa"}
+      }
+     "Key pair name": 
+      {
+          "value":"key1"}
+      }
+    }
+  
