@@ -4,15 +4,15 @@
     "parameters": {
       "Project Name": 
       {
-          "value":"Project1"}
+          "value":"Project1"
       }
      "Admin Username": 
       {
-          "value":"Shilpa"}
+          "value":"Shilpa"
       }
      "Key pair name": 
       {
-          "value":"key1"}
+          "value":"key1"
       }
     }
   
